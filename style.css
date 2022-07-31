@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.logo {
+    width: 30px;
+}
+
+
+.fornite {
+    width: 300px;
+}
+
+.apex {
+    width: 300px;
+    margin-right: 100px;
+}
+
+.column {
+    float: left;
+  width: 300px;
+  padding: 10px;
+}
+
+
+.tengah {
+    margin-top: 300px;
+}
+
+footer {
+
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: blue;
+}
